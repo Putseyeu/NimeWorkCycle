@@ -1,0 +1,7 @@
+D:\KursSakutin\git\NimeWorkCycle\bin\Debug\NomeWorkCycle.exe.config
+D:\KursSakutin\git\NimeWorkCycle\bin\Debug\NomeWorkCycle.exe
+D:\KursSakutin\git\NimeWorkCycle\bin\Debug\NomeWorkCycle.pdb
+D:\KursSakutin\git\NimeWorkCycle\obj\Debug\NomeWorkCycle.csproj.AssemblyReference.cache
+D:\KursSakutin\git\NimeWorkCycle\obj\Debug\NomeWorkCycle.csproj.CoreCompileInputs.cache
+D:\KursSakutin\git\NimeWorkCycle\obj\Debug\NomeWorkCycle.exe
+D:\KursSakutin\git\NimeWorkCycle\obj\Debug\NomeWorkCycle.pdb

@@ -16,13 +16,12 @@ namespace NomeWorkCycle
             Console.Write("What's your message ?: ");
             messageUser = Console.ReadLine();
             Console.Write("How many times to repeat it ?:");
-            totalRepeat = Convert.ToInt32(Console.ReadLine());
+            
 
-            while ( totalRepeat --> 0)
+            for (totalRepeat = Convert.ToInt32(Console.ReadLine()); totalRepeat != 0; totalRepeat -=1 )
             {
                 Console.WriteLine(messageUser);
             }
         }
-
     }
 }
