@@ -18,7 +18,7 @@ namespace NomeWorkCycle
             Console.Write("How many times to repeat it ?:");
             
 
-            for (totalRepeat = Convert.ToInt32(Console.ReadLine()); totalRepeat != 0; totalRepeat -=1 )
+            for (totalRepeat = Convert.ToInt32(Console.ReadLine()); totalRepeat > 0; totalRepeat -=1 )
             {
                 Console.WriteLine(messageUser);
             }
